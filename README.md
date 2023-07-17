@@ -1,6 +1,7 @@
 <h1 align="center">Hola! 👋, soy Gabriel Escriba</h1>
 <h3 align="center">Tu proximo desarrollador frontend</h3>
-[![en](https://img.shields.io/badge/English-291ddb)](https://github.com/gaescriba/horarios-app/blob/master/README.en.md)](https://github.com/gaescriba/gaescriba/edit/main/README.md)]
+![en](https://img.shields.io/badge/English-291ddb)](https://github.com/gaescriba/horarios-app/blob/master/README.en.md)
+
 
 - 🔭 Estoy trabajando en [jsfxck](https://github.com/gaescriba/jsfxxk)
 
