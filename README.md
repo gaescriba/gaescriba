@@ -1,7 +1,7 @@
 <h1 align="center">Hola! 👋, soy Gabriel Escriba</h1>
 <h3 align="center">Tu proximo desarrollador frontend</h3>
 
-**[English](https://github.com/gaescriba/gaescriba/blob/main/README.en.md)**
+**[Read this in english](https://github.com/gaescriba/gaescriba/blob/main/README.en.md)**
 
 
 - 🔭 Estoy trabajando en [jsfxck](https://github.com/gaescriba/jsfxxk)
