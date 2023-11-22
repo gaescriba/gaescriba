@@ -8,7 +8,7 @@
 
 - 🌱 Ahora mismo estoy aprendiendo **TypeScript**
 
-- 📄 Revisa mi experiencia en mi [Curriculum](https://drive.google.com/file/d/1_q1tclyjMsS1MLrNYy7sTzNTSwJUTQMK/view?usp=sharing)
+- 📄 Revisa mi experiencia en mi [Curriculum](https://drive.google.com/file/d/1oIE2x-ffn0otAXeWu6BVDXsVw6LYy-fO/view?usp=sharing)
 
 - 📫 Contactame en: **gaescriba.trabajo@gmail.com**
 
