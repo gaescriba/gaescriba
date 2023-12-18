@@ -4,7 +4,7 @@
 **[Read this in english](https://github.com/gaescriba/gaescriba/blob/main/README.en.md)**
 
 
-- 🔭 Estoy trabajando en [jsfxck](https://github.com/gaescriba/jsfxxk)
+- 🔭 Estoy trabajando en [Freenanzas](https://github.com/gaescriba/laravel-from-docs)
 
 - 🌱 Ahora mismo estoy aprendiendo **Laravel**
 
