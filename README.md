@@ -6,7 +6,7 @@
 
 - 🔭 Estoy trabajando en [Freenanzas](https://github.com/gaescriba/laravel-from-docs)
 
-- 🌱 Ahora mismo estoy aprendiendo **Laravel**
+- 🌱 Ahora mismo estoy reforzando mis conocimientos en **Vue.js**
 
 - 📄 Revisa mi experiencia en mi [Curriculum](https://drive.google.com/file/d/1oIE2x-ffn0otAXeWu6BVDXsVw6LYy-fO/view?usp=sharing)
 
