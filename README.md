@@ -8,7 +8,7 @@
 
 - 🌱 Ahora mismo estoy reforzando mis conocimientos en **Vue.js**
 
-- 📄 Revisa mi experiencia en mi [Curriculum](https://drive.google.com/file/d/1oIE2x-ffn0otAXeWu6BVDXsVw6LYy-fO/view?usp=sharing)
+- 📄 Revisa mi experiencia en mi [Curriculum](https://drive.google.com/file/d/131FrJ5HDkgvsEKwjYUDzILLsnZ-Dw4X9/view?usp=sharing)
 
 - 📫 Contactame en: **gaescriba.trabajo@gmail.com**
 
