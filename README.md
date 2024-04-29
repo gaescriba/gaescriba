@@ -4,9 +4,9 @@
 **[Read this in english](https://github.com/gaescriba/gaescriba/blob/main/README.en.md)**
 
 
-- 🔭 Estoy trabajando en [Freenanzas](https://github.com/gaescriba/laravel-from-docs)
+- 🔭 Estoy trabajando en [Simple todo series](https://github.com/gaescriba/simple-todo-series/tree/master)
 
-- 🌱 Ahora mismo estoy reforzando mis conocimientos en **Vue.js**
+- 🌱 Ahora mismo estoy reforzando mis conocimientos en **Vue/Angular/React**
 
 - 📄 Revisa mi experiencia en mi [Curriculum](https://drive.google.com/file/d/131FrJ5HDkgvsEKwjYUDzILLsnZ-Dw4X9/view?usp=sharing)
 
